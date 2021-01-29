@@ -4,7 +4,7 @@
       London
     </h2>
     <p>
-      Hello this is your London. making some new chang. New Something Hello
+      Hello this is your London. making some new chang. New Something Hello, Some new changes
     </p>
   </div>
 </template>
